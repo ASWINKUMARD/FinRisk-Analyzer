@@ -8,14 +8,19 @@
 # 📂 Dataset
 
 🔹 CSV dataset containing features like income, loan amount, credit history, and other relevant financial data.
+
 🔹 Target variable: default (0 = No Default, 1 = Default)
 
 # 🛠️ Implementation Steps
 
 1️⃣ Load dataset and check for missing values
+
 2️⃣ Encode categorical variables (if any)
+
 3️⃣ Split dataset into train and test sets
+
 4️⃣ Scale numeric features using StandardScaler
+
 5️⃣ Train models:
 
 # 🌳 Random Forest
@@ -24,6 +29,7 @@
 
 # 🔹 Logistic Regression (baseline)
 6️⃣ Make predictions and evaluate models
+
 7️⃣ Visualize feature importance for Random Forest
 
 # 📊 Evaluation Metrics
