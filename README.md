@@ -38,3 +38,9 @@
 ✨ Ensemble models like Random Forest and XGBoost generally outperform a single Logistic Regression.
 ✨ Feature importance highlights key predictors of loan default.
 ✨ This project demonstrates a typical ML workflow from preprocessing to evaluation.
+
+  ### 👨‍💻 Author
+
+   **Aswin Kumar D**
+
+💌 *AI/ML Enthusiast | Deep Learning Developer*
